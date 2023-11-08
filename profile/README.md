@@ -1,5 +1,5 @@
 ## 지하철 실시간 탑승 알리미, 탈래말래🚇
-![image](https://github.com/RideOrNot/.github/assets/68229317/5705c986-8169-4d16-b611-54add1f0099c)
+![image](https://github.com/RideOrNot/.github/assets/68229317/4bfc8fd7-81e0-4dd6-88bf-5e3d20373293)
 
 ## Contributors
 | Server | Server | Android | Android | Server |
